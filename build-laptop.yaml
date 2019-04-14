@@ -25,6 +25,7 @@
           - prolific-pl2303
           - postman
           - firefox
+          - google-chrome
       pip3_packages:
           - netmiko
           - boto
