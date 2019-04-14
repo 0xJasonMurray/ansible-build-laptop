@@ -2,7 +2,7 @@
 
 Ansible playbook to configure my laptop.
 
-Besides the Google and Box drive configuration the vast majority of the configuration should work for almost anyone.  (See #Post Configuration below for extra details)
+Besides the Google and Box drive configuration the vast majority of the configuration should work for almost anyone.  (See #post-configuration below for extra details)
 
 These are the tools I use as a systems and network architect.
 
